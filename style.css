@@ -2,4 +2,32 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
 }
+header {
+  text-align: center;
+}
+nav a {
+  padding-right: 10px;
+  padding-left:10px;
+  background-color: blanchedalmond;
+}
+#featured-property {
+  text-align: center;
+}
+  figcaption {
+    font-size: small;
+  }
+  p { 
+    width: 800px;
+    margin: 0 auto;
+  }
+#details {
+  float: left;
+  padding: 15px;
+  background-color: red;
+  display: inline-block;
+  overflow: hidden;
+}
+
+
